@@ -15,6 +15,7 @@ Valuble tools &amp; platforms for various aspects of programming.
 ## Free Courses
 * Data Science and Cognitive Computing Courses : https://cognitiveclass.ai
 
+## Tools
 * **Rest Client for Debugging** https://insomnia.rest/
 * **Vector and Animations** https://www.2dimensions.com/about-flare
 * **On Site Inspection for DOM** https://github.com/GoogleChromeLabs/ProjectVisBug
